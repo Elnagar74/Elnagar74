@@ -5,10 +5,11 @@
 
 ## About Me
 
-I'm passionate about Machine Learning and AI.  
-I have hands-on experience in developing and training models through coursework and personal mini-projects.  
-I also enjoy solving algorithmic challenges - I've solved over **800 problems** on **Codeforces** and **LeetCode**.  
-Currently, I'm focused on building practical ML applications and improving my data analysis skills.
+- I'm passionate about Machine Learning and AI.  
+- I have hands-on experience in developing and training models through coursework and personal mini-projects.  
+- Currently, I'm focused on building practical ML applications and improving my data analysis skills.
+- Open to collaborate on Machine Learning, Data Science projects, Exploratory Data Analysis, and visualizations.
+- I also enjoy solving algorithmic challenges - I've solved over **800 problems** on **Codeforces** and **LeetCode**.  
 
 ---
 
@@ -20,6 +21,8 @@ Currently, I'm focused on building practical ML applications and improving my da
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
 ---
@@ -46,9 +49,17 @@ Currently, I'm focused on building practical ML applications and improving my da
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elnagar74&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=elnagar74&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elnagar74&theme=midnight-purple&hide_border=false" height="180px"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnagar74&layout=compact&theme=midnight-purple&hide_border=false" />
+</div>
 
 ---
 
@@ -56,13 +67,15 @@ Currently, I'm focused on building practical ML applications and improving my da
 
 <p align="center">
   <a href="mailto:mhmoud.elnagar74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/elnagar74/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Elnagar74">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=github" height="30"/>
   </a>
 </p>
 
