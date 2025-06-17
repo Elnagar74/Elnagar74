@@ -3,8 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F1FF&background=00000000&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;" alt="Typing SVG" />
 </p>
 
-
-
 ---
 
 ## About Me
@@ -21,6 +19,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
@@ -54,16 +53,16 @@
 ## GitHub Stats
 
 <div align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elnagar74&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=elnagar74&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=elnagar74&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="150" alt="GitHub Streak" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elnagar74&theme=midnight-purple&hide_border=false" height="180px"/>
-
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=elnagar74&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=5" height="150" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnagar74&layout=compact&theme=midnight-purple&hide_border=false" />
-</div>
 
 ---
 
